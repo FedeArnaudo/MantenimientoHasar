@@ -1,0 +1,15 @@
+D:\C#\MantenimientoHasar\MantenimientoHasar\bin\Debug\MantenimientoHasar.exe.config
+D:\C#\MantenimientoHasar\MantenimientoHasar\bin\Debug\MantenimientoHasar.exe
+D:\C#\MantenimientoHasar\MantenimientoHasar\bin\Debug\MantenimientoHasar.pdb
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar.csproj.AssemblyReference.cache
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MainWindow.g.cs
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\App.g.cs
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar_MarkupCompile.cache
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar_MarkupCompile.lref
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MainWindow.baml
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar.g.resources
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar.Properties.Resources.resources
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar.csproj.GenerateResource.cache
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar.csproj.CoreCompileInputs.cache
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar.exe
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\MantenimientoHasar.pdb

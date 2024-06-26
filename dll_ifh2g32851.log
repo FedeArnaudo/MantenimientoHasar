@@ -1,0 +1,2222 @@
+1/12/2023 15:13:26 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:26 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 15:13:26 - *** Respuesta ***
+1/12/2023 15:13:26 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>31</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60896</NumeroUltimoComprobante>
+	<CantidadEmitidos>41</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 15:13:26 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:26 - <?xml version="1.0" encoding="UTF-8"?><ConsultarDatosInicializacion />
+1/12/2023 15:13:26 - *** Respuesta ***
+1/12/2023 15:13:26 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarDatosInicializacion>
+	<Secuencia>32</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<CUIT>30714457299</CUIT>
+	<RazonSocial>ESTACION PUNTO PANORAMICO S.A</RazonSocial>
+	<Registro>HSHSAB0000007226</Registro>
+	<NumeroPos>00008</NumeroPos>
+	<FechaInicioActividades>140701</FechaInicioActividades>
+	<IngBrutos>28117884</IngBrutos>
+	<ResponsabilidadIVA>IFResponsableInscripto</ResponsabilidadIVA>
+</ConsultarDatosInicializacion>
+1/12/2023 15:13:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 15:13:27 - *** Respuesta ***
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>33</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60896</NumeroUltimoComprobante>
+	<CantidadEmitidos>41</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 15:13:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 15:13:27 - *** Respuesta ***
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>34</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60896</NumeroUltimoComprobante>
+	<CantidadEmitidos>41</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 15:13:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?><CargarDatosCliente><RazonSocial>5903 MAHU S.A.</RazonSocial><NumeroDocumento>30708100230</NumeroDocumento><ResponsabilidadIVA>ResponsableInscripto</ResponsabilidadIVA><TipoDocumento>TipoCUIT</TipoDocumento><Domicilio>AV. COLON 567 - 3? P - DTO A</Domicilio><DatosAdicionales1> </DatosAdicionales1><DatosAdicionales2></DatosAdicionales2><DatosAdicionales3></DatosAdicionales3></CargarDatosCliente>
+1/12/2023 15:13:27 - *** Respuesta ***
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?>
+<CargarDatosCliente>
+	<Secuencia>35</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</CargarDatosCliente>
+1/12/2023 15:13:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?><CargarTransportista><RazonSocial>5903 MAHU S.A.</RazonSocial><Cuit>00000000000</Cuit><Domicilio> </Domicilio><NombreChofer> </NombreChofer><TipoDocumento>TipoDNI</TipoDocumento><NumeroDocumento>123345678</NumeroDocumento><Dominio1> </Dominio1><Dominio2> </Dominio2></CargarTransportista>
+1/12/2023 15:13:27 - *** Respuesta ***
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?>
+<CargarTransportista>
+	<Secuencia>36</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</CargarTransportista>
+1/12/2023 15:13:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:27 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>GRACIAS POR SU COMPRA - BUENOS DIAS</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:28 - *** Respuesta ***
+1/12/2023 15:13:28 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>37</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:28 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:28 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>CONTADO</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:28 - *** Respuesta ***
+1/12/2023 15:13:28 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>38</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:28 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:28 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>Empleado: 28 FRIAS,MARTIN</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:28 - *** Respuesta ***
+1/12/2023 15:13:28 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>39</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:28 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:28 - <?xml version="1.0" encoding="UTF-8"?><AbrirDocumento><CodigoComprobante>TiqueFacturaA</CodigoComprobante></AbrirDocumento>
+1/12/2023 15:13:30 - *** Respuesta ***
+1/12/2023 15:13:30 - <?xml version="1.0" encoding="UTF-8"?>
+<AbrirDocumento>
+	<Secuencia>40</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00035868</NumeroComprobante>
+</AbrirDocumento>
+1/12/2023 15:13:30 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:30 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>ELAION AURO PLUS 540</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>13155</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 15:13:31 - *** Respuesta ***
+1/12/2023 15:13:31 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>41</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 15:13:31 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:31 - <?xml version="1.0" encoding="UTF-8"?><CerrarDocumento><Copias>0</Copias><DireccionEMail></DireccionEMail></CerrarDocumento>
+1/12/2023 15:13:32 - *** Respuesta ***
+1/12/2023 15:13:32 - <?xml version="1.0" encoding="UTF-8"?>
+<CerrarDocumento>
+	<Secuencia>42</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00035868</NumeroComprobante>
+	<CantidadDePaginas>1</CantidadDePaginas>
+</CerrarDocumento>
+1/12/2023 15:13:32 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:32 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:33 - *** Respuesta ***
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>43</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:33 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:33 - *** Respuesta ***
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>44</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:33 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:33 - *** Respuesta ***
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>45</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:33 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:33 - *** Respuesta ***
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>46</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:33 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:33 - *** Respuesta ***
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>47</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:33 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:33 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:34 - *** Respuesta ***
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>48</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:34 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:34 - *** Respuesta ***
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>49</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:34 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:34 - *** Respuesta ***
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>50</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:34 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:34 - *** Respuesta ***
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>51</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:34 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:34 - *** Respuesta ***
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>52</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:34 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:34 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:35 - *** Respuesta ***
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>53</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:35 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:35 - *** Respuesta ***
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>54</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:35 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:35 - *** Respuesta ***
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>55</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:35 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:35 - *** Respuesta ***
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>56</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:35 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>5</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:35 - *** Respuesta ***
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>57</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 15:13:35 - Iniciando conexión: 192.168.88.216
+1/12/2023 15:13:35 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>6</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 15:13:36 - *** Respuesta ***
+1/12/2023 15:13:36 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>58</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:28 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:28 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:12:28 - *** Respuesta ***
+1/12/2023 18:12:28 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>89</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60912</NumeroUltimoComprobante>
+	<CantidadEmitidos>57</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:12:28 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:28 - <?xml version="1.0" encoding="UTF-8"?><ConsultarDatosInicializacion />
+1/12/2023 18:12:29 - *** Respuesta ***
+1/12/2023 18:12:29 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarDatosInicializacion>
+	<Secuencia>90</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<CUIT>30714457299</CUIT>
+	<RazonSocial>ESTACION PUNTO PANORAMICO S.A</RazonSocial>
+	<Registro>HSHSAB0000007226</Registro>
+	<NumeroPos>00008</NumeroPos>
+	<FechaInicioActividades>140701</FechaInicioActividades>
+	<IngBrutos>28117884</IngBrutos>
+	<ResponsabilidadIVA>IFResponsableInscripto</ResponsabilidadIVA>
+</ConsultarDatosInicializacion>
+1/12/2023 18:12:29 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:29 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:12:29 - *** Respuesta ***
+1/12/2023 18:12:29 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>1</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60912</NumeroUltimoComprobante>
+	<CantidadEmitidos>57</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:12:29 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:29 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:12:29 - *** Respuesta ***
+1/12/2023 18:12:29 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>2</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60912</NumeroUltimoComprobante>
+	<CantidadEmitidos>57</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:12:29 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:29 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>GRACIAS POR SU COMPRA - BUENOS DIAS</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:29 - *** Respuesta ***
+1/12/2023 18:12:29 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>3</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:29 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:29 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>CONTADO</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:30 - *** Respuesta ***
+1/12/2023 18:12:30 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>4</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:30 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:30 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>Empleado: 26 DUARTE,MARTIN</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:30 - *** Respuesta ***
+1/12/2023 18:12:30 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>5</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:30 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:30 - <?xml version="1.0" encoding="UTF-8"?><AbrirDocumento><CodigoComprobante>Tique</CodigoComprobante></AbrirDocumento>
+1/12/2023 18:12:32 - *** Respuesta ***
+1/12/2023 18:12:32 - <?xml version="1.0" encoding="UTF-8"?>
+<AbrirDocumento>
+	<Secuencia>6</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00060913</NumeroComprobante>
+</AbrirDocumento>
+1/12/2023 18:12:32 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:32 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>Super 20w50 1lt Mult</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>4580</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 18:12:32 - *** Respuesta ***
+1/12/2023 18:12:32 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>7</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 18:12:32 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:32 - <?xml version="1.0" encoding="UTF-8"?><CerrarDocumento><Copias>0</Copias><DireccionEMail></DireccionEMail></CerrarDocumento>
+1/12/2023 18:12:36 - *** Respuesta ***
+1/12/2023 18:12:36 - <?xml version="1.0" encoding="UTF-8"?>
+<CerrarDocumento>
+	<Secuencia>8</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00060913</NumeroComprobante>
+	<CantidadDePaginas>1</CantidadDePaginas>
+</CerrarDocumento>
+1/12/2023 18:12:36 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:36 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:36 - *** Respuesta ***
+1/12/2023 18:12:36 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>9</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:36 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:36 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:37 - *** Respuesta ***
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>10</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:37 - *** Respuesta ***
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>11</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:37 - *** Respuesta ***
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>12</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:37 - *** Respuesta ***
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>13</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:37 - *** Respuesta ***
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>14</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:38 - *** Respuesta ***
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>15</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:38 - *** Respuesta ***
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>16</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:38 - *** Respuesta ***
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>17</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:38 - *** Respuesta ***
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>18</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:38 - *** Respuesta ***
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>19</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:39 - *** Respuesta ***
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>20</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:39 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:39 - *** Respuesta ***
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>21</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:39 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:39 - *** Respuesta ***
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>22</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:39 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>5</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:39 - *** Respuesta ***
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>23</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:12:39 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>6</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:12:39 - *** Respuesta ***
+1/12/2023 18:12:39 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>24</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:13 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:13 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:22:13 - *** Respuesta ***
+1/12/2023 18:22:13 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>27</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60915</NumeroUltimoComprobante>
+	<CantidadEmitidos>60</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:22:13 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:13 - <?xml version="1.0" encoding="UTF-8"?><ConsultarDatosInicializacion />
+1/12/2023 18:22:14 - *** Respuesta ***
+1/12/2023 18:22:14 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarDatosInicializacion>
+	<Secuencia>28</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<CUIT>30714457299</CUIT>
+	<RazonSocial>ESTACION PUNTO PANORAMICO S.A</RazonSocial>
+	<Registro>HSHSAB0000007226</Registro>
+	<NumeroPos>00008</NumeroPos>
+	<FechaInicioActividades>140701</FechaInicioActividades>
+	<IngBrutos>28117884</IngBrutos>
+	<ResponsabilidadIVA>IFResponsableInscripto</ResponsabilidadIVA>
+</ConsultarDatosInicializacion>
+1/12/2023 18:22:14 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:14 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:22:14 - *** Respuesta ***
+1/12/2023 18:22:14 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>29</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60915</NumeroUltimoComprobante>
+	<CantidadEmitidos>60</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:22:14 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:14 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:22:14 - *** Respuesta ***
+1/12/2023 18:22:14 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>30</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60915</NumeroUltimoComprobante>
+	<CantidadEmitidos>60</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:22:14 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:14 - <?xml version="1.0" encoding="UTF-8"?><CargarDatosCliente><RazonSocial>10573 GATTI COLD SA</RazonSocial><NumeroDocumento>30715778129</NumeroDocumento><ResponsabilidadIVA>ResponsableInscripto</ResponsabilidadIVA><TipoDocumento>TipoCUIT</TipoDocumento><Domicilio>NO DEFINIDA</Domicilio><DatosAdicionales1> </DatosAdicionales1><DatosAdicionales2></DatosAdicionales2><DatosAdicionales3></DatosAdicionales3></CargarDatosCliente>
+1/12/2023 18:22:14 - *** Respuesta ***
+1/12/2023 18:22:14 - <?xml version="1.0" encoding="UTF-8"?>
+<CargarDatosCliente>
+	<Secuencia>31</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</CargarDatosCliente>
+1/12/2023 18:22:14 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:14 - <?xml version="1.0" encoding="UTF-8"?><CargarTransportista><RazonSocial>10573 GATTI COLD SA</RazonSocial><Cuit>00000000000</Cuit><Domicilio> </Domicilio><NombreChofer> </NombreChofer><TipoDocumento>TipoDNI</TipoDocumento><NumeroDocumento>123345678</NumeroDocumento><Dominio1> </Dominio1><Dominio2> </Dominio2></CargarTransportista>
+1/12/2023 18:22:15 - *** Respuesta ***
+1/12/2023 18:22:15 - <?xml version="1.0" encoding="UTF-8"?>
+<CargarTransportista>
+	<Secuencia>32</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</CargarTransportista>
+1/12/2023 18:22:15 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:15 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>GRACIAS POR SU COMPRA - BUENOS DIAS</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:15 - *** Respuesta ***
+1/12/2023 18:22:15 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>33</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:15 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:15 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>CONTADO</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:15 - *** Respuesta ***
+1/12/2023 18:22:15 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>34</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:15 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:15 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>Empleado: 26 DUARTE,MARTIN</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:15 - *** Respuesta ***
+1/12/2023 18:22:15 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>35</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:15 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:15 - <?xml version="1.0" encoding="UTF-8"?><AbrirDocumento><CodigoComprobante>TiqueFacturaA</CodigoComprobante></AbrirDocumento>
+1/12/2023 18:22:18 - *** Respuesta ***
+1/12/2023 18:22:18 - <?xml version="1.0" encoding="UTF-8"?>
+<AbrirDocumento>
+	<Secuencia>36</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00035883</NumeroComprobante>
+</AbrirDocumento>
+1/12/2023 18:22:18 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:18 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>LAMPARA WEGA H7</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>3800</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 18:22:18 - *** Respuesta ***
+1/12/2023 18:22:18 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>37</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 18:22:18 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:18 - <?xml version="1.0" encoding="UTF-8"?><CerrarDocumento><Copias>0</Copias><DireccionEMail></DireccionEMail></CerrarDocumento>
+1/12/2023 18:22:20 - *** Respuesta ***
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?>
+<CerrarDocumento>
+	<Secuencia>38</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00035883</NumeroComprobante>
+	<CantidadDePaginas>1</CantidadDePaginas>
+</CerrarDocumento>
+1/12/2023 18:22:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:20 - *** Respuesta ***
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>39</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:20 - *** Respuesta ***
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>40</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:20 - *** Respuesta ***
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>41</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:20 - *** Respuesta ***
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>42</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:20 - *** Respuesta ***
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>43</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:21 - *** Respuesta ***
+1/12/2023 18:22:21 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>44</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:21 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:21 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:21 - *** Respuesta ***
+1/12/2023 18:22:21 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>45</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:21 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:21 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:21 - *** Respuesta ***
+1/12/2023 18:22:21 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>46</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:21 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:21 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:21 - *** Respuesta ***
+1/12/2023 18:22:21 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>47</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:21 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:21 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:22 - *** Respuesta ***
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>48</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:22 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:22 - *** Respuesta ***
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>49</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:22 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:22 - *** Respuesta ***
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>50</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:22 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:22 - *** Respuesta ***
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>51</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:22 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:22 - *** Respuesta ***
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>52</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:22 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>5</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:22 - *** Respuesta ***
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>53</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:22:22 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:22:22 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>6</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:22:23 - *** Respuesta ***
+1/12/2023 18:22:23 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>54</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:11 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:11 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:34:11 - *** Respuesta ***
+1/12/2023 18:34:11 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>25</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60917</NumeroUltimoComprobante>
+	<CantidadEmitidos>62</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:34:11 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:11 - <?xml version="1.0" encoding="UTF-8"?><ConsultarDatosInicializacion />
+1/12/2023 18:34:11 - *** Respuesta ***
+1/12/2023 18:34:11 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarDatosInicializacion>
+	<Secuencia>26</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<CUIT>30714457299</CUIT>
+	<RazonSocial>ESTACION PUNTO PANORAMICO S.A</RazonSocial>
+	<Registro>HSHSAB0000007226</Registro>
+	<NumeroPos>00008</NumeroPos>
+	<FechaInicioActividades>140701</FechaInicioActividades>
+	<IngBrutos>28117884</IngBrutos>
+	<ResponsabilidadIVA>IFResponsableInscripto</ResponsabilidadIVA>
+</ConsultarDatosInicializacion>
+1/12/2023 18:34:11 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:11 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:34:11 - *** Respuesta ***
+1/12/2023 18:34:11 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>27</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60917</NumeroUltimoComprobante>
+	<CantidadEmitidos>62</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:34:11 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:11 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 18:34:12 - *** Respuesta ***
+1/12/2023 18:34:12 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>28</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>Tique</CodigoComprobante>
+	<NumeroUltimoComprobante>60917</NumeroUltimoComprobante>
+	<CantidadEmitidos>62</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 18:34:12 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:12 - <?xml version="1.0" encoding="UTF-8"?><CargarDatosCliente><RazonSocial>20864 BEEPEX SAS</RazonSocial><NumeroDocumento>30718026373</NumeroDocumento><ResponsabilidadIVA>ResponsableInscripto</ResponsabilidadIVA><TipoDocumento>TipoCUIT</TipoDocumento><Domicilio>NO DEFINIDA</Domicilio><DatosAdicionales1> </DatosAdicionales1><DatosAdicionales2></DatosAdicionales2><DatosAdicionales3></DatosAdicionales3></CargarDatosCliente>
+1/12/2023 18:34:12 - *** Respuesta ***
+1/12/2023 18:34:12 - <?xml version="1.0" encoding="UTF-8"?>
+<CargarDatosCliente>
+	<Secuencia>29</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</CargarDatosCliente>
+1/12/2023 18:34:12 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:12 - <?xml version="1.0" encoding="UTF-8"?><CargarTransportista><RazonSocial>20864 BEEPEX SAS</RazonSocial><Cuit>00000000000</Cuit><Domicilio> </Domicilio><NombreChofer> </NombreChofer><TipoDocumento>TipoDNI</TipoDocumento><NumeroDocumento>123345678</NumeroDocumento><Dominio1> </Dominio1><Dominio2> </Dominio2></CargarTransportista>
+1/12/2023 18:34:12 - *** Respuesta ***
+1/12/2023 18:34:12 - <?xml version="1.0" encoding="UTF-8"?>
+<CargarTransportista>
+	<Secuencia>30</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</CargarTransportista>
+1/12/2023 18:34:12 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:12 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>GRACIAS POR SU COMPRA - BUENOS DIAS</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:12 - *** Respuesta ***
+1/12/2023 18:34:12 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>31</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:12 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:12 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>CONTADO</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:13 - *** Respuesta ***
+1/12/2023 18:34:13 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>32</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:13 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:13 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>Empleado: 26 DUARTE,MARTIN</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:13 - *** Respuesta ***
+1/12/2023 18:34:13 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>33</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:13 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:13 - <?xml version="1.0" encoding="UTF-8"?><AbrirDocumento><CodigoComprobante>TiqueFacturaA</CodigoComprobante></AbrirDocumento>
+1/12/2023 18:34:15 - *** Respuesta ***
+1/12/2023 18:34:15 - <?xml version="1.0" encoding="UTF-8"?>
+<AbrirDocumento>
+	<Secuencia>34</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00035884</NumeroComprobante>
+</AbrirDocumento>
+1/12/2023 18:34:15 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:15 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>ELAION AURO FR 530 4</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>48442</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 18:34:15 - *** Respuesta ***
+1/12/2023 18:34:15 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>35</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 18:34:15 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:15 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>FILTRO ACEITE PH 556</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>3340</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 18:34:16 - *** Respuesta ***
+1/12/2023 18:34:16 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>36</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 18:34:16 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:16 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>FILTRO AIRE CA 12021</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>11420</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 18:34:16 - *** Respuesta ***
+1/12/2023 18:34:16 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>37</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 18:34:16 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:16 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>SCANNER + BOXES</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>3500</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 18:34:16 - *** Respuesta ***
+1/12/2023 18:34:16 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>38</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 18:34:16 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:16 - <?xml version="1.0" encoding="UTF-8"?><CerrarDocumento><Copias>0</Copias><DireccionEMail></DireccionEMail></CerrarDocumento>
+1/12/2023 18:34:18 - *** Respuesta ***
+1/12/2023 18:34:18 - <?xml version="1.0" encoding="UTF-8"?>
+<CerrarDocumento>
+	<Secuencia>39</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00035884</NumeroComprobante>
+	<CantidadDePaginas>1</CantidadDePaginas>
+</CerrarDocumento>
+1/12/2023 18:34:18 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:18 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:18 - *** Respuesta ***
+1/12/2023 18:34:18 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>40</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:18 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:18 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:18 - *** Respuesta ***
+1/12/2023 18:34:18 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>41</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:18 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:18 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:18 - *** Respuesta ***
+1/12/2023 18:34:18 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>42</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:18 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:18 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:19 - *** Respuesta ***
+1/12/2023 18:34:19 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>43</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:19 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:19 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:19 - *** Respuesta ***
+1/12/2023 18:34:19 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>44</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:19 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:19 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:19 - *** Respuesta ***
+1/12/2023 18:34:19 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>45</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:19 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:19 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:19 - *** Respuesta ***
+1/12/2023 18:34:19 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>46</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:19 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:19 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:20 - *** Respuesta ***
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>47</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:20 - *** Respuesta ***
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>48</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:20 - *** Respuesta ***
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>49</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:20 - *** Respuesta ***
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>50</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:20 - *** Respuesta ***
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>51</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:20 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:20 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:21 - *** Respuesta ***
+1/12/2023 18:34:21 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>52</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:21 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:21 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:21 - *** Respuesta ***
+1/12/2023 18:34:21 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>53</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:21 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:21 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>5</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:21 - *** Respuesta ***
+1/12/2023 18:34:21 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>54</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 18:34:21 - Iniciando conexión: 192.168.88.216
+1/12/2023 18:34:21 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>6</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 18:34:21 - *** Respuesta ***
+1/12/2023 18:34:21 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>55</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:26 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:26 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 19:12:26 - *** Respuesta ***
+1/12/2023 19:12:26 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>53</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>TiqueFacturaA</CodigoComprobante>
+	<NumeroUltimoComprobante>35886</NumeroUltimoComprobante>
+	<CantidadEmitidos>48</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 19:12:26 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:26 - <?xml version="1.0" encoding="UTF-8"?><ConsultarDatosInicializacion />
+1/12/2023 19:12:27 - *** Respuesta ***
+1/12/2023 19:12:27 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarDatosInicializacion>
+	<Secuencia>54</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<CUIT>30714457299</CUIT>
+	<RazonSocial>ESTACION PUNTO PANORAMICO S.A</RazonSocial>
+	<Registro>HSHSAB0000007226</Registro>
+	<NumeroPos>00008</NumeroPos>
+	<FechaInicioActividades>140701</FechaInicioActividades>
+	<IngBrutos>28117884</IngBrutos>
+	<ResponsabilidadIVA>IFResponsableInscripto</ResponsabilidadIVA>
+</ConsultarDatosInicializacion>
+1/12/2023 19:12:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:27 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 19:12:27 - *** Respuesta ***
+1/12/2023 19:12:27 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>55</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>TiqueFacturaA</CodigoComprobante>
+	<NumeroUltimoComprobante>35886</NumeroUltimoComprobante>
+	<CantidadEmitidos>48</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 19:12:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:27 - <?xml version="1.0" encoding="UTF-8"?><ConsultarEstado><CodigoComprobante>NoDocumento</CodigoComprobante></ConsultarEstado>
+1/12/2023 19:12:27 - *** Respuesta ***
+1/12/2023 19:12:27 - <?xml version="1.0" encoding="UTF-8"?>
+<ConsultarEstado>
+	<Secuencia>56</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<EstadoAuxiliar type="list">
+	</EstadoAuxiliar>
+	<EstadoInterno>EnJornadaFiscal</EstadoInterno>
+	<ComprobanteEnCurso>NoDocumento</ComprobanteEnCurso>
+	<CodigoComprobante>TiqueFacturaA</CodigoComprobante>
+	<NumeroUltimoComprobante>35886</NumeroUltimoComprobante>
+	<CantidadEmitidos>48</CantidadEmitidos>
+	<CantidadCancelados>0</CantidadCancelados>
+</ConsultarEstado>
+1/12/2023 19:12:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:27 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>GRACIAS POR SU COMPRA - BUENOS DIAS</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:27 - *** Respuesta ***
+1/12/2023 19:12:27 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>57</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:27 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:27 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>CONTADO</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:28 - *** Respuesta ***
+1/12/2023 19:12:28 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>58</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:28 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:28 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>Centrado</Atributos></Atributos><Descripcion>Empleado: 26 DUARTE,MARTIN</Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:28 - *** Respuesta ***
+1/12/2023 19:12:28 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>59</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:28 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:28 - <?xml version="1.0" encoding="UTF-8"?><AbrirDocumento><CodigoComprobante>Tique</CodigoComprobante></AbrirDocumento>
+1/12/2023 19:12:30 - *** Respuesta ***
+1/12/2023 19:12:30 - <?xml version="1.0" encoding="UTF-8"?>
+<AbrirDocumento>
+	<Secuencia>60</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00060924</NumeroComprobante>
+</AbrirDocumento>
+1/12/2023 19:12:30 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:30 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>ELAION FS 530 4 lt</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>44655</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 19:12:30 - *** Respuesta ***
+1/12/2023 19:12:30 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>61</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 19:12:30 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:30 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>ELAION F50 5W-30 1LT</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>11829</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 19:12:30 - *** Respuesta ***
+1/12/2023 19:12:30 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>62</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 19:12:30 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:30 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>CH 9584</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>6200</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 19:12:31 - *** Respuesta ***
+1/12/2023 19:12:31 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>63</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 19:12:31 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:31 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>FILTRO CA 12066 FRAM</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>6700</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 19:12:31 - *** Respuesta ***
+1/12/2023 19:12:31 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>64</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 19:12:31 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:31 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>FILTRO COMB G 12783 </Descripcion><Cantidad>1</Cantidad><PrecioUnitario>3800</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 19:12:31 - *** Respuesta ***
+1/12/2023 19:12:31 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>65</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 19:12:31 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:31 - <?xml version="1.0" encoding="UTF-8"?><ImprimirItem><Descripcion>SCANNER + BOXES</Descripcion><Cantidad>1</Cantidad><PrecioUnitario>3500</PrecioUnitario><CondicionIVA>Gravado</CondicionIVA><AlicuotaIVA>21</AlicuotaIVA><OperacionMonto>ModoSumaMonto</OperacionMonto><TipoImpuestoInterno>IIVariableKIVA</TipoImpuestoInterno><MagnitudImpuestoInterno>0</MagnitudImpuestoInterno><ModoDisplay>DisplayNo</ModoDisplay><ModoBaseTotal>ModoPrecioTotal</ModoBaseTotal><UnidadReferencia>1</UnidadReferencia><CodigoProducto></CodigoProducto><CodigoInterno>0000000000001</CodigoInterno><UnidadMedida>Unidad</UnidadMedida></ImprimirItem>
+1/12/2023 19:12:31 - *** Respuesta ***
+1/12/2023 19:12:31 - <?xml version="1.0" encoding="UTF-8"?>
+<ImprimirItem>
+	<Secuencia>66</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+			<Fiscal>DocumentoFiscalAbierto</Fiscal>
+			<Fiscal>DocumentoAbierto</Fiscal>
+		</Fiscal>
+	</Estado>
+</ImprimirItem>
+1/12/2023 19:12:31 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:31 - <?xml version="1.0" encoding="UTF-8"?><CerrarDocumento><Copias>0</Copias><DireccionEMail></DireccionEMail></CerrarDocumento>
+1/12/2023 19:12:36 - *** Respuesta ***
+1/12/2023 19:12:36 - <?xml version="1.0" encoding="UTF-8"?>
+<CerrarDocumento>
+	<Secuencia>67</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+	<NumeroComprobante>00060924</NumeroComprobante>
+	<CantidadDePaginas>1</CantidadDePaginas>
+</CerrarDocumento>
+1/12/2023 19:12:36 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:36 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:36 - *** Respuesta ***
+1/12/2023 19:12:36 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>68</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:36 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:36 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:36 - *** Respuesta ***
+1/12/2023 19:12:36 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>69</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:36 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:36 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:36 - *** Respuesta ***
+1/12/2023 19:12:36 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>70</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:36 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:36 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:37 - *** Respuesta ***
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>71</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:37 - *** Respuesta ***
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>72</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Encabezado</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:37 - *** Respuesta ***
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>73</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:37 - *** Respuesta ***
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>74</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:37 - *** Respuesta ***
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>75</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:37 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:37 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:38 - *** Respuesta ***
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>76</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona1Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:38 - *** Respuesta ***
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>77</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>1</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:38 - *** Respuesta ***
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>78</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>2</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:38 - *** Respuesta ***
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>79</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>3</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:38 - *** Respuesta ***
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>80</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:38 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:38 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>4</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:39 - *** Respuesta ***
+1/12/2023 19:12:39 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>81</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:39 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:39 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>5</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:39 - *** Respuesta ***
+1/12/2023 19:12:39 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>82</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
+1/12/2023 19:12:39 - Iniciando conexión: 192.168.88.216
+1/12/2023 19:12:39 - <?xml version="1.0" encoding="UTF-8"?><ConfigurarZona><NumeroLinea>6</NumeroLinea><Atributos type="list"><Atributos>BorradoTexto</Atributos></Atributos><Descripcion> </Descripcion><Estacion>EstacionPorDefecto</Estacion><IdentificadorZona>Zona2Cola</IdentificadorZona></ConfigurarZona>
+1/12/2023 19:12:39 - *** Respuesta ***
+1/12/2023 19:12:39 - <?xml version="1.0" encoding="UTF-8"?>
+<ConfigurarZona>
+	<Secuencia>83</Secuencia>
+	<Estado>
+		<Impresora type="list">
+		</Impresora>
+		<Fiscal type="list">
+			<Fiscal>MemoriaFiscalInicializada</Fiscal>
+		</Fiscal>
+	</Estado>
+</ConfigurarZona>
