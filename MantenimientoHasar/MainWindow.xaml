@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:MantenimientoHasar"
         mc:Ignorable="d"
         Icon="MantenimientoHasar.ico"
-        Title="Mantenimiento Hasar" Height="220" Width="400">
+        Title="Mantenimiento Hasar" Height="250" Width="400">
     <Window.Resources>
         <!--#region ButtonStle-->
         <Style x:Key="FocusVisual">
@@ -90,6 +90,12 @@
             <TextBlock Grid.Row="1" Grid.ColumnSpan="4" Text="Mantenimiento Hasar"
                        Foreground="Black" FontSize="30" VerticalAlignment="Center"
                        HorizontalAlignment="Center"></TextBlock>
+            <TextBlock Grid.RowSpan="5" Grid.ColumnSpan="4" TextWrapping="Wrap"
+                       Text="Para eliminar un archivo distinto, que esté dentro de la ruta al proyecto,
+                       se puede agregar el nombre (con su extension) en el txt que se encuentra
+                       en la ubicacion del archivo de programa."
+                       Foreground="Black" FontSize="10" Margin="7,0,0,0"
+                       VerticalAlignment="Center" HorizontalAlignment="Left"></TextBlock>
             <TextBlock Grid.Row="4" Grid.Column="1" Text="Ruta del Proyecto"
                        Foreground="Black" FontSize="16"
                        VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Debug\
+D:\C#\MantenimientoHasar\MantenimientoHasar\obj\Release\
 MantenimientoHasar
 none
 false
-DEBUG;TRACE
+TRACE
 D:\C#\MantenimientoHasar\MantenimientoHasar\App.xaml
 11151548125
 
-7-35311283
+6807048084
 151397803362
 MainWindow.xaml;
 
-True
+False
 

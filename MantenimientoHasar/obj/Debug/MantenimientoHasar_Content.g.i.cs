@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("mantenimientohasar.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("mantenimientohasar2.ico")]
 
 

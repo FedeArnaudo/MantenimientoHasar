@@ -5,16 +5,20 @@ VisualStudioVersion = 16.0.34931.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MantenimientoHasar", "MantenimientoHasar\MantenimientoHasar.csproj", "{89D7AB3F-1A54-46D7-BDA4-AD9B6D8071CF}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMH", "SetupMH\SetupMH.vdproj", "{A3C1FF60-94F4-44D8-85F4-A1D0014315D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{89D7AB3F-1A54-46D7-BDA4-AD9B6D8071CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89D7AB3F-1A54-46D7-BDA4-AD9B6D8071CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D7AB3F-1A54-46D7-BDA4-AD9B6D8071CF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{89D7AB3F-1A54-46D7-BDA4-AD9B6D8071CF}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{89D7AB3F-1A54-46D7-BDA4-AD9B6D8071CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D7AB3F-1A54-46D7-BDA4-AD9B6D8071CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C1FF60-94F4-44D8-85F4-A1D0014315D9}.Debug|Any CPU.ActiveCfg = Debug
+		{A3C1FF60-94F4-44D8-85F4-A1D0014315D9}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

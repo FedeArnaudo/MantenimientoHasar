@@ -35,6 +35,8 @@ namespace MantenimientoHasar
                 DatosTxt.InstanciaDatosTxt().VerificarCarpeta();
                 DatosTxt.InstanciaDatosTxt().Escribir(DatosTxt.fileProy, TextBoxRutaProyecto.Text);
                 DatosTxt.InstanciaDatosTxt().Escribir(DatosTxt.fileDelete, TextBoxArchivo.Text);
+
+                ExecuteMethod(TextBoxRutaProyecto.Text);
             }
             else
             {
